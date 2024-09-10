@@ -216,7 +216,7 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max scaletofit="1" pan="360" tilt="90" fov="140" fovfisheye="360" fovstereographic="330"/>
     </view>
-    <userdata description="" title="RESTO" source="" nodeid="node14" author="" heading="87.6213" latitude="" longitude="" comment="" tags="INSTA360" datetime="02/09/2024 02:44 PM" info="" customnodeid="" copyright="">
+    <userdata description="" title="RESTO" source="&lt;div class=&quot;ggmarkdown&quot;>&lt;div>" nodeid="node14" author="" heading="87.6213" latitude="" longitude="" comment="" tags="INSTA360" datetime="02/09/2024 02:44 PM" info="" customnodeid="" copyright="">
       <mapcoords x="0.741577" mapid="FloorPlan02" y="-0.626221" x_floorplan_percent="28.125" y_floorplan_percent="42.2222"/>
     </userdata>
     <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
@@ -241,7 +241,7 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max scaletofit="1" pan="360" tilt="90" fov="140" fovfisheye="360" fovstereographic="330"/>
     </view>
-    <userdata description="" title="BOH garden" source="" nodeid="node15" author="" heading="-87.4663" latitude="" longitude="" comment="" tags="INSTA360" datetime="03/09/2024 08:03 AM" info="" customnodeid="" copyright="">
+    <userdata description="" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>BOH garden&lt;/p>&#xa;&lt;div>" source="" nodeid="node15" author="" heading="-87.4663" latitude="" longitude="" comment="" tags="INSTA360" datetime="03/09/2024 08:03 AM" info="" customnodeid="" copyright="">
       <mapcoords x="1.05194" mapid="FloorPlan02" y="-0.436707" x_floorplan_percent="39.8958" y_floorplan_percent="29.4444"/>
     </userdata>
     <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
@@ -509,6 +509,6 @@
       <sequence title="Animation01"/>
     </animationsequences>
   </masternode>
-  <map id="FloorPlan01" title="" crispedges="0" tileformat="png" index="0" type="file" bgcolor="rgba(255, 255, 255, 1)" width="8000" zoomlevels="1" transparent="0" floorplannorth="4.65" height="4500"/>
-  <map id="FloorPlan02" title="" crispedges="0" tileformat="jpg" index="1" type="file" bgcolor="rgba(104, 97, 91, 1)" width="7680" zoomlevels="1" transparent="0" floorplannorth="1.33" height="4320"/>
+  <map id="FloorPlan01" title="" crispedges="0" tileformat="png" index="0" type="file" bgcolor="rgba(255, 255, 255, 1)" width="8000" zoomlevels="6" transparent="0" floorplannorth="4.65" height="4500"/>
+  <map id="FloorPlan02" title="" crispedges="0" tileformat="jpg" index="1" type="file" bgcolor="rgba(104, 97, 91, 1)" width="7680" zoomlevels="6" transparent="0" floorplannorth="1.33" height="4320"/>
 </tour>
