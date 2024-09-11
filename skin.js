@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 7.1.2/20913
 // Filename: RCU map3.ggsk
-// Generated 2024-09-11T11:01:19
+// Generated 2024-09-11T11:07:07
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_thumbnails', 2, false, { ignoreInState: 0  });
@@ -1178,13 +1178,13 @@ function pano2vrSkin(player,base) {
 		hs+='background : rgba(0,0,0,0.705882);';
 		hs+='border : 0px solid #000000;';
 		hs+='cursor : default;';
-		hs+='height : 98%;';
-		hs+='left : 284px;';
+		hs+='height : 85.2%;';
+		hs+='left : 169px;';
 		hs+='opacity : 0;';
 		hs+='position : absolute;';
-		hs+='top : 7px;';
+		hs+='top : 16px;';
 		hs+='visibility : hidden;';
-		hs+='width : 78.6%;';
+		hs+='width : 10.15%;';
 		hs+='pointer-events:auto;';
 		hs+='backdrop-filter: blur(3px);';
 		el.setAttribute('style',hs);
@@ -1230,12 +1230,12 @@ function pano2vrSkin(player,base) {
 		el.className="ggskin ggskin_container ";
 		el.ggType='container';
 		hs ='';
-		hs+='height : 106px;';
-		hs+='left : -137px;';
+		hs+='height : 110px;';
+		hs+='left : -19px;';
 		hs+='position : absolute;';
-		hs+='top : 4px;';
+		hs+='top : -1px;';
 		hs+='visibility : inherit;';
-		hs+='width : 100%;';
+		hs+='width : 92.5573%;';
 		hs+='pointer-events:auto;';
 		el.setAttribute('style',hs);
 		el.style.transformOrigin='50% 50%';
@@ -1515,11 +1515,11 @@ function pano2vrSkin(player,base) {
 		}
 		elVertScrollBg = me._thumbnail_scroller_phone__vertScrollBg = document.createElement('div');
 		el.appendChild(elVertScrollBg);
-		elVertScrollBg.setAttribute('style', 'position: absolute; right: 0px; top: 0px; visibility: hidden; width: 8px; height: 717px; background-color: rgba(128,128,128,1); pointer-events: auto;');
+		elVertScrollBg.setAttribute('style', 'position: absolute; right: 0px; top: 0px; visibility: hidden; width: 8px; height: 678px; background-color: rgba(128,128,128,1); pointer-events: auto;');
 		elVertScrollBg.className='ggskin ggskin_scrollarea_vscrollbg';
 		elVertScrollFg = me._thumbnail_scroller_phone__vertScrollFg = document.createElement('div');
 		elVertScrollBg.appendChild(elVertScrollFg);
-		elVertScrollFg.setAttribute('style', 'position: absolute; left: 0px; top: 0px; visibility: hidden; width: 8px; height: 717px; background-color: rgba(192,192,192,1); pointer-events: auto;');
+		elVertScrollFg.setAttribute('style', 'position: absolute; left: 0px; top: 0px; visibility: hidden; width: 8px; height: 678px; background-color: rgba(192,192,192,1); pointer-events: auto;');
 		elVertScrollFg.className='ggskin ggskin_scrollarea_vscrollfg';
 		me._thumbnail_scroller_phone.ggScrollPosY = 0;
 		me._thumbnail_scroller_phone.ggScrollPosYPercent = 0.0;
@@ -1628,7 +1628,7 @@ function pano2vrSkin(player,base) {
 		hs+='left : 8px;';
 		hs+='overflow : hidden;';
 		hs+='position : absolute;';
-		hs+='top : 14px;';
+		hs+='top : 53px;';
 		hs+='visibility : inherit;';
 		hs+='width : calc(100% - 40px);';
 		hs+='pointer-events:auto;';
