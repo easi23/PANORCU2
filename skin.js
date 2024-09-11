@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 7.1.2/20913
 // Filename: RCU map3.ggsk
-// Generated 2024-09-11T10:46:24
+// Generated 2024-09-11T11:01:19
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_thumbnails', 2, false, { ignoreInState: 0  });
@@ -1178,13 +1178,13 @@ function pano2vrSkin(player,base) {
 		hs+='background : rgba(0,0,0,0.705882);';
 		hs+='border : 0px solid #000000;';
 		hs+='cursor : default;';
-		hs+='height : 100%;';
-		hs+='left : 33px;';
+		hs+='height : 98%;';
+		hs+='left : 284px;';
 		hs+='opacity : 0;';
 		hs+='position : absolute;';
-		hs+='top : 251px;';
+		hs+='top : 7px;';
 		hs+='visibility : hidden;';
-		hs+='width : 100%;';
+		hs+='width : 78.6%;';
 		hs+='pointer-events:auto;';
 		hs+='backdrop-filter: blur(3px);';
 		el.setAttribute('style',hs);
@@ -2052,8 +2052,8 @@ function pano2vrSkin(player,base) {
 				activeNodeLatLng = L.latLng(me._map_1.ggLastLat, me._map_1.ggLastLng);
 			}
 			if (mapType == 'web') {
-				if (me._map_1.ggLastZoom == -1) me._map_1.ggLastZoom = 0;
-				var initZoom = keepZoom ? me._map_1.ggLastZoom : 0;
+				if (me._map_1.ggLastZoom == -1) me._map_1.ggLastZoom = 1;
+				var initZoom = keepZoom ? me._map_1.ggLastZoom : 1;
 				var maxZoom = ((mapDetails['mapprovider'] == 'openstreetmap') && (mapDetails['mapstyle'] == 'outdoors')) ? 17 : 18;
 				if (mapDetails['mapprovider'] == 'custom') maxZoom = mapDetails['mapmaxzoom'];
 				var mapOptions = {
@@ -2151,7 +2151,7 @@ function pano2vrSkin(player,base) {
 					mapCenter.lng = me._map_1.mapWidthInDeg / 2;
 				}
 				if (me._map_1.ggLastZoom == -1) me._map_1.ggLastZoom = 7;
-				var initZoom = keepZoom ? me._map_1.ggLastZoom : 7;
+				var initZoom = keepZoom ? me._map_1.ggLastZoom : 8;
 				var mapOptions = {
 					zoom: initZoom,
 					minZoom: 7,
@@ -2222,9 +2222,9 @@ function pano2vrSkin(player,base) {
 					me._map_1.ggMap.fitBounds(me._map_1.ggMarkerBounds, {padding: [30, 30], animate: false});
 					} else {
 						if (player.getMapType(me._map_1.ggMapId) == 'web') {
-							me._map_1.ggMap.setZoom(0);
+							me._map_1.ggMap.setZoom(1);
 						} else {
-							me._map_1.ggMap.setZoom(7 + 0);
+							me._map_1.ggMap.setZoom(7 + 1);
 						}
 					}
 				} else {
@@ -2233,13 +2233,13 @@ function pano2vrSkin(player,base) {
 						if (force) {
 						me._map_1.ggMap.setZoom(18);
 						} else {
-							me._map_1.ggMap.setZoom(0);
+							me._map_1.ggMap.setZoom(1);
 						}
 					} else {
 						if (force) {
 						me._map_1.ggMap.setZoom(7);
 						} else {
-							me._map_1.ggMap.setZoom(7 + 0);
+							me._map_1.ggMap.setZoom(7 + 1);
 						}
 					}
 				}
