@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 7.1.2/20913
 // Filename: RCU map3.ggsk
-// Generated 2024-09-11T11:11:36
+// Generated 2024-09-11T11:15:50
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_thumbnails', 2, false, { ignoreInState: 0  });
@@ -1185,7 +1185,7 @@ function pano2vrSkin(player,base) {
 		hs+='position : absolute;';
 		hs+='top : 58px;';
 		hs+='visibility : hidden;';
-		hs+='width : 27.4%;';
+		hs+='width : 80.45%;';
 		hs+='pointer-events:auto;';
 		hs+='backdrop-filter: blur(3px);';
 		el.setAttribute('style',hs);
@@ -1626,7 +1626,7 @@ function pano2vrSkin(player,base) {
 		hs ='';
 		hs+='border : 0px solid #000000;';
 		hs+='height : calc(100% - 50px);';
-		hs+='left : 8px;';
+		hs+='left : 9px;';
 		hs+='overflow : hidden;';
 		hs+='position : absolute;';
 		hs+='top : 53px;';
