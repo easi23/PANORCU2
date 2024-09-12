@@ -18,6 +18,49 @@
     <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
       <label backgroundcolor="0xffffff" border="1" bordercolor="0x000000" wordwrap="1" textcolor="0x000000" backgroundalpha="1" enabled="1" borderalpha="1" borderradius="1" textalpha="1" width="180" background="1" height="20"/>
       <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot description="" id="Point01" title="GATE #1" pan="-13.37" tilt="-34.39" target="" url="{node27}" skinid="ht_node"/>
+      <hotspot description="" id="Point02" title="" pan="-43.87" tilt="-34.22" target="" url="{node28}" skinid="ht_node"/>
+      <hotspot description="" id="Point03" title="" pan="51.17" tilt="-10.52" target="" url="{node20}" skinid="ht_node"/>
+      <hotspot description="" id="Point04" title="" pan="-25.4" tilt="28.81" target="" url="{node30}" skinid="ht_node"/>
+      <hotspot description="" id="Point05" title="" pan="-7.49" tilt="19.23" target="" url="{node29}" skinid="ht_node"/>
+      <hotspot description="" id="Point06" title="" pan="39.42" tilt="7.29" target="" url="{node19}" skinid="ht_node"/>
+      <hotspot description="" id="Point07" title="" pan="-17.91" tilt="-15.45" target="" url="{node16}" skinid="ht_node"/>
+      <hotspot description="" id="Point08" title="" pan="-30.13" tilt="-16.58" target="" url="{node18}" skinid="ht_node"/>
+      <hotspot description="" id="Point09" title="" pan="-34.3" tilt="18.95" target="" url="{node31}" skinid="ht_node"/>
+      <hotspot description="" id="Point10" title="" pan="33.93" tilt="12.22" target="" url="{node14}" skinid="ht_node"/>
+      <hotspot description="" id="Point11" title="" pan="30.23" tilt="15.16" target="" url="{node13}" skinid="ht_node"/>
+      <hotspot description="" id="Point12" title="" pan="21.23" tilt="20.85" target="" url="{node36}" skinid="ht_node"/>
+      <hotspot description="" id="Point13" title="" pan="8.53" tilt="27" target="" url="{node17}" skinid="ht_node"/>
+      <hotspot description="" id="Point14" title="" pan="-49.75" tilt="-11.17" target="" url="{node26}" skinid="ht_node"/>
+      <hotspot description="" id="Point15" title="" pan="-48.33" tilt="-19.23" target="" url="{node22}" skinid="ht_node"/>
+      <hotspot description="" id="Point16" title="" pan="-51.93" tilt="-21.21" target="" url="{node25}" skinid="ht_node"/>
+      <hotspot description="" id="Point17" title="" pan="-47.38" tilt="-15.34" target="" url="{node21}" skinid="ht_node"/>
+      <hotspot description="" id="Point18" title="" pan="12.51" tilt="21.05" target="" url="{node15}" skinid="ht_node"/>
+      <hotspot description="" id="Point19" title="" pan="18.01" tilt="2.48" target="" url="{node4}" skinid="ht_node"/>
+      <hotspot description="" id="Point20" title="" pan="9.29" tilt="2.76" target="" url="{node24}" skinid="ht_node"/>
+      <hotspot description="" id="Point21" title="" pan="-43.21" tilt="4.09" target="" url="{node32}" skinid="ht_node"/>
+      <hotspot description="" id="Point22" title="" pan="44.92" tilt="-12.68" target="" url="{node9}" skinid="ht_node"/>
+      <hotspot description="" id="Point23" title="" pan="3.22" tilt="-4.44" target="" url="{node11}" skinid="ht_node"/>
+      <hotspot description="" id="Point24" title="" pan="-20" tilt="19.05" target="" url="{node12}" skinid="ht_node"/>
+      <hotspot description="" id="Point25" title="" pan="-11.28" tilt="-5.78" target="" url="{node10}" skinid="ht_node"/>
+      <hotspot description="" id="Point26" title="" pan="-37.43" tilt="-7.32" target="" url="{node2}" skinid="ht_node"/>
+      <hotspot description="" id="Point27" title="" pan="-35.25" tilt="-21.23" target="" url="{node1}" skinid="ht_node"/>
+      <hotspot description="" id="Point28" title="" pan="32.13" tilt="6.73" target="" url="{node8}" skinid="ht_node"/>
+      <hotspot description="" id="Point29" title="" pan="4.64" tilt="-0.38" target="" url="{node49}" skinid="ht_node"/>
+      <hotspot description="" id="Point30" title="" pan="1.23" tilt="-0.47" target="" url="{node48}" skinid="ht_node"/>
+      <hotspot description="" id="Point31" title="" pan="-1.91" tilt="-0.38" target="" url="{node47}" skinid="ht_node"/>
+      <hotspot description="" id="Point32" title="" pan="-5.21" tilt="-0.46" target="" url="{node50}" skinid="ht_node"/>
+      <hotspot description="" id="Point33" title="" pan="44.63" tilt="-2.56" target="" url="{node39}" skinid="ht_node"/>
+      <hotspot description="" id="Point34" title="" pan="45.49" tilt="0.47" target="" url="{node38}" skinid="ht_node"/>
+      <hotspot description="" id="Point35" title="" pan="48.33" tilt="-2.08" target="" url="{node45}" skinid="ht_node"/>
+      <hotspot description="" id="Point36" title="" pan="46.15" tilt="-4.74" target="" url="{node44}" skinid="ht_node"/>
+      <hotspot description="" id="Point37" title="" pan="17.25" tilt="25.11" target="" url="{node34}" skinid="ht_node"/>
+      <hotspot description="" id="Point38" title="" pan="-13.17" tilt="-24.73" target="" url="{node5}" skinid="ht_node"/>
+      <hotspot description="" id="Point39" title="" pan="27.01" tilt="20.75" target="" url="{node33}" skinid="ht_node"/>
+      <hotspot description="" id="Point40" title="" pan="-2.09" tilt="21.32" target="" url="{node51}" skinid="ht_node"/>
+      <hotspot description="" id="Point41" title="" pan="22.11" tilt="0.87" target="" url="{node52}" skinid="ht_node"/>
+      <hotspot description="" id="Point42" title="" pan="-28.25" tilt="0.87" target="" url="{node23}" skinid="ht_node"/>
+      <hotspot description="" id="Point43" title="" pan="-27.89" tilt="26.01" target="" url="{node7}" skinid="ht_node"/>
     </hotspots>
     <media/>
     <transition zoomspeed="2" blendtime="0.5" zoomafterinfov="140" zoomfov="40" zoomout="0" delay="none" enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0"/>
@@ -87,7 +130,7 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max scaletofit="1" pan="360" tilt="90" fov="140" fovfisheye="360" fovstereographic="330"/>
     </view>
-    <userdata description="" title="ROAD ENTRANCE" source="" nodeid="node5" author="" heading="0" latitude="" longitude="" comment="" tags="INSTA360" datetime="03/09/2024 08:07 AM" info="" customnodeid="" copyright="">
+    <userdata description="" title="ROAD GATE #1" source="" nodeid="node5" author="" heading="0" latitude="" longitude="" comment="" tags="INSTA360" datetime="03/09/2024 08:07 AM" info="" customnodeid="" copyright="">
       <mapcoords x="1.43646" mapid="FloorPlan02" y="-1.26892" x_floorplan_percent="54.4792" y_floorplan_percent="85.5556"/>
     </userdata>
     <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
@@ -243,6 +286,29 @@
     <userdata description="" title="VIP Accom" source="" nodeid="node4" author="" heading="-41.31" latitude="" longitude="" comment="" tags="INSTA360" datetime="03/09/2024 08:20 AM" info="" customnodeid="" copyright="">
       <mapcoords x="1.33347" mapid="FloorPlan02" y="-0.856247" x_floorplan_percent="50.5729" y_floorplan_percent="57.7315"/>
     </userdata>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label backgroundcolor="0xffffff" border="1" bordercolor="0x000000" wordwrap="1" textcolor="0x000000" backgroundalpha="1" enabled="1" borderalpha="1" borderradius="1" textalpha="1" width="180" background="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="0.5" zoomafterinfov="140" zoomfov="40" zoomout="0" delay="none" enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control sensitivity="11" lockedwheel="0" zoomcentercursor="1" rubberband="0" lockedkeyboardzoom="0" invertwheel="1" speedwheel="1" lockedkeyboard="0" invertcontrol="1" contextvr="1" hideabout="1" contextprojections="0" simulatemass="1" lockedmouse="0" dblclickfullscreen="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node52">
+    <input levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node52/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1" width="1488" levelbiashidpi="1.000" leveltilesize="510" height="1488">
+      <level preload="0" predecode="0" width="1488" height="1488"/>
+      <level preload="0" predecode="0" width="744" height="744"/>
+      <level preload="1" predecode="1" width="372" height="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="126.12" tilt="0.68" fov="108.17"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fov="140" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata description="" title="VIP - Porch" source="" nodeid="node52" author="" heading="0" latitude="" longitude="" comment="" tags="EXPORTED" datetime="02/09/2024 01:16 PM" info="" customnodeid="" copyright=""/>
     <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
       <label backgroundcolor="0xffffff" border="1" bordercolor="0x000000" wordwrap="1" textcolor="0x000000" backgroundalpha="1" enabled="1" borderalpha="1" borderradius="1" textalpha="1" width="180" background="1" height="20"/>
       <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" handcursor="1"/>
@@ -558,7 +624,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="87.6213">
-      <start projection="4" pan="-49.84" tilt="-4.11" fov="100"/>
+      <start projection="4" pan="-172.58" tilt="0.24" fov="108.17"/>
       <flyin projection="9" pan="0" tilt="-90" fov="170"/>
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max scaletofit="1" pan="360" tilt="90" fov="140" fovfisheye="360" fovstereographic="330"/>
@@ -583,7 +649,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="0">
-      <start projection="4" pan="-58.51" tilt="1.44" fov="100"/>
+      <start projection="4" pan="-61.37" tilt="3.79" fov="108.17"/>
       <flyin projection="9" pan="0" tilt="-90" fov="170"/>
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max scaletofit="1" pan="360" tilt="90" fov="140" fovfisheye="360" fovstereographic="330"/>
@@ -608,7 +674,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="-62.5197">
-      <start projection="4" pan="141.44" tilt="-5.79" fov="100"/>
+      <start projection="4" pan="141.44" tilt="-5.79" fov="117.02"/>
       <flyin projection="9" pan="0" tilt="-90" fov="170"/>
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max scaletofit="1" pan="360" tilt="90" fov="140" fovfisheye="360" fovstereographic="330"/>
@@ -634,7 +700,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="89.5386">
-      <start projection="4" pan="-132.84" tilt="4.33" fov="100"/>
+      <start projection="4" pan="-125.47" tilt="2.99" fov="100"/>
       <flyin projection="9" pan="0" tilt="-90" fov="170"/>
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max scaletofit="1" pan="360" tilt="90" fov="140" fovfisheye="360" fovstereographic="330"/>
@@ -684,7 +750,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="23.6318">
-      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <start projection="4" pan="4.68" tilt="-7.68" fov="108.17"/>
       <flyin projection="9" pan="0" tilt="-90" fov="170"/>
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max scaletofit="1" pan="360" tilt="90" fov="140" fovfisheye="360" fovstereographic="330"/>
@@ -709,7 +775,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="0">
-      <start projection="4" pan="-10.6" tilt="1.52" fov="100"/>
+      <start projection="4" pan="28.66" tilt="6.46" fov="100"/>
       <flyin projection="9" pan="0" tilt="-90" fov="170"/>
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max scaletofit="1" pan="360" tilt="90" fov="140" fovfisheye="360" fovstereographic="330"/>
@@ -734,13 +800,38 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="21.7912">
-      <start projection="4" pan="24.21" tilt="3.03" fov="117.02"/>
+      <start projection="4" pan="28.73" tilt="7.61" fov="117.02"/>
       <flyin projection="9" pan="0" tilt="-90" fov="170"/>
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max scaletofit="1" pan="360" tilt="90" fov="140" fovfisheye="360" fovstereographic="330"/>
     </view>
-    <userdata description="" title="NORTH YOGA" source="" nodeid="node7" author="" heading="21.7912" latitude="" longitude="" comment="" tags="" datetime="2024:09:08 12:54:36" info="" customnodeid="" copyright="">
+    <userdata description="" title="NORTH YOGA-CINEMA-BBQ" source="" nodeid="node7" author="" heading="21.7912" latitude="" longitude="" comment="" tags="" datetime="2024:09:08 12:54:36" info="" customnodeid="" copyright="">
       <mapcoords x="1.78596" mapid="FloorPlan02" y="-0.282211" x_floorplan_percent="67.7344" y_floorplan_percent="19.0278"/>
+    </userdata>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label backgroundcolor="0xffffff" border="1" bordercolor="0x000000" wordwrap="1" textcolor="0x000000" backgroundalpha="1" enabled="1" borderalpha="1" borderradius="1" textalpha="1" width="180" background="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="0.5" zoomafterinfov="140" zoomfov="40" zoomout="0" delay="none" enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control sensitivity="11" lockedwheel="0" zoomcentercursor="1" rubberband="0" lockedkeyboardzoom="0" invertwheel="1" speedwheel="1" lockedkeyboard="0" invertcontrol="1" contextvr="1" hideabout="1" contextprojections="0" simulatemass="1" lockedmouse="0" dblclickfullscreen="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node30">
+    <input levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1" width="1488" levelbiashidpi="1.000" leveltilesize="510" height="1488">
+      <level preload="0" predecode="0" width="1488" height="1488"/>
+      <level preload="0" predecode="0" width="744" height="744"/>
+      <level preload="1" predecode="1" width="372" height="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="6.6412">
+      <start projection="4" pan="-124.42" tilt="5.33" fov="108.17"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fov="140" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata description="" title="YOGA" source="" nodeid="node30" author="" heading="6.6412" latitude="" longitude="" comment="" tags="EXPORTED" datetime="03/09/2024 07:58 AM" info="" customnodeid="" copyright="">
+      <mapcoords x="1.75095" mapid="FloorPlan02" y="-0.184021" x_floorplan_percent="66.4063" y_floorplan_percent="12.4074"/>
     </userdata>
     <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
       <label backgroundcolor="0xffffff" border="1" bordercolor="0x000000" wordwrap="1" textcolor="0x000000" backgroundalpha="1" enabled="1" borderalpha="1" borderradius="1" textalpha="1" width="180" background="1" height="20"/>
@@ -759,7 +850,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="-106.079">
-      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <start projection="4" pan="1.92" tilt="8.84" fov="100"/>
       <flyin projection="9" pan="0" tilt="-90" fov="170"/>
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max scaletofit="1" pan="360" tilt="90" fov="140" fovfisheye="360" fovstereographic="330"/>
@@ -784,7 +875,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="99.5271">
-      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <start projection="4" pan="3.91" tilt="9.46" fov="108.17"/>
       <flyin projection="9" pan="0" tilt="-90" fov="170"/>
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max scaletofit="1" pan="360" tilt="90" fov="140" fovfisheye="360" fovstereographic="330"/>
@@ -809,7 +900,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="0">
-      <start projection="4" pan="129.66" tilt="12.25" fov="100"/>
+      <start projection="4" pan="129.66" tilt="10.14" fov="108.17"/>
       <flyin projection="9" pan="0" tilt="-90" fov="170"/>
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max scaletofit="1" pan="360" tilt="90" fov="140" fovfisheye="360" fovstereographic="330"/>
@@ -834,7 +925,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="-138.943">
-      <start projection="4" pan="63.95" tilt="-1.38" fov="100"/>
+      <start projection="4" pan="74.59" tilt="2.68" fov="108.17"/>
       <flyin projection="9" pan="0" tilt="-90" fov="170"/>
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max scaletofit="1" pan="360" tilt="90" fov="140" fovfisheye="360" fovstereographic="330"/>
@@ -859,7 +950,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="0">
-      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <start projection="4" pan="-13.06" tilt="1.37" fov="108.17"/>
       <flyin projection="9" pan="0" tilt="-90" fov="170"/>
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max scaletofit="1" pan="360" tilt="90" fov="140" fovfisheye="360" fovstereographic="330"/>
@@ -884,7 +975,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="-171.229">
-      <start projection="4" pan="-67.98" tilt="9.66" fov="100"/>
+      <start projection="4" pan="-57.91" tilt="3.49" fov="108.17"/>
       <flyin projection="9" pan="0" tilt="-90" fov="170"/>
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max scaletofit="1" pan="360" tilt="90" fov="140" fovfisheye="360" fovstereographic="330"/>
@@ -909,7 +1000,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="108.388">
-      <start projection="4" pan="-145.94" tilt="9.4" fov="100"/>
+      <start projection="4" pan="-147.7" tilt="7.02" fov="108.17"/>
       <flyin projection="9" pan="0" tilt="-90" fov="170"/>
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max scaletofit="1" pan="360" tilt="90" fov="140" fovfisheye="360" fovstereographic="330"/>
@@ -934,7 +1025,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="-56.0824">
-      <start projection="4" pan="-22.8" tilt="-1.04" fov="108.17"/>
+      <start projection="4" pan="-21.09" tilt="2.65" fov="117.01"/>
       <flyin projection="9" pan="0" tilt="-90" fov="170"/>
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max scaletofit="1" pan="360" tilt="90" fov="140" fovfisheye="360" fovstereographic="330"/>
@@ -959,7 +1050,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="0">
-      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <start projection="4" pan="-5.42" tilt="-2.46" fov="108.17"/>
       <flyin projection="9" pan="0" tilt="-90" fov="170"/>
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max scaletofit="1" pan="360" tilt="90" fov="140" fovfisheye="360" fovstereographic="330"/>
@@ -1009,7 +1100,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="142.833">
-      <start projection="4" pan="-49.48" tilt="4.37" fov="100"/>
+      <start projection="4" pan="-46.92" tilt="9.5" fov="100"/>
       <flyin projection="9" pan="0" tilt="-90" fov="170"/>
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max scaletofit="1" pan="360" tilt="90" fov="140" fovfisheye="360" fovstereographic="330"/>
@@ -1034,7 +1125,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="114.203">
-      <start projection="4" pan="-105.38" tilt="-0.42" fov="100"/>
+      <start projection="4" pan="-105.25" tilt="2.49" fov="100"/>
       <flyin projection="9" pan="0" tilt="-90" fov="170"/>
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max scaletofit="1" pan="360" tilt="90" fov="140" fovfisheye="360" fovstereographic="330"/>
@@ -1059,38 +1150,13 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="93.4592">
-      <start projection="4" pan="-23.99" tilt="0.13" fov="100"/>
+      <start projection="4" pan="-23.87" tilt="7.83" fov="108.17"/>
       <flyin projection="9" pan="0" tilt="-90" fov="170"/>
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max scaletofit="1" pan="360" tilt="90" fov="140" fovfisheye="360" fovstereographic="330"/>
     </view>
     <userdata description="" title="OUTSPACE - Upper office" source="" nodeid="node26" author="" heading="93.4592" latitude="" longitude="" comment="" tags="EXPORTED" datetime="03/09/2024 08:16 AM" info="" customnodeid="" copyright="">
       <mapcoords x="1.91849" mapid="FloorPlan02" y="-1.07941" x_floorplan_percent="72.7604" y_floorplan_percent="72.7778"/>
-    </userdata>
-    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
-      <label backgroundcolor="0xffffff" border="1" bordercolor="0x000000" wordwrap="1" textcolor="0x000000" backgroundalpha="1" enabled="1" borderalpha="1" borderradius="1" textalpha="1" width="180" background="1" height="20"/>
-      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" handcursor="1"/>
-    </hotspots>
-    <media/>
-    <transition zoomspeed="2" blendtime="0.5" zoomafterinfov="140" zoomfov="40" zoomout="0" delay="none" enabled="1" softedge="0" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="40" zoomin="0"/>
-    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control sensitivity="11" lockedwheel="0" zoomcentercursor="1" rubberband="0" lockedkeyboardzoom="0" invertwheel="1" speedwheel="1" lockedkeyboard="0" invertcontrol="1" contextvr="1" hideabout="1" contextprojections="0" simulatemass="1" lockedmouse="0" dblclickfullscreen="0" contextfullscreen="1"/>
-  </panorama>
-  <panorama hideabout="1" id="node30">
-    <input levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1" width="1488" levelbiashidpi="1.000" leveltilesize="510" height="1488">
-      <level preload="0" predecode="0" width="1488" height="1488"/>
-      <level preload="0" predecode="0" width="744" height="744"/>
-      <level preload="1" predecode="1" width="372" height="372"/>
-      <preview color="0x808080" strip="1"/>
-    </input>
-    <view fovmode="2" pannorth="6.6412">
-      <start projection="4" pan="-126.57" tilt="-0.54" fov="100"/>
-      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max scaletofit="1" pan="360" tilt="90" fov="140" fovfisheye="360" fovstereographic="330"/>
-    </view>
-    <userdata description="" title="YOGA" source="" nodeid="node30" author="" heading="6.6412" latitude="" longitude="" comment="" tags="EXPORTED" datetime="03/09/2024 07:58 AM" info="" customnodeid="" copyright="">
-      <mapcoords x="1.75095" mapid="FloorPlan02" y="-0.184021" x_floorplan_percent="66.4063" y_floorplan_percent="12.4074"/>
     </userdata>
     <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
       <label backgroundcolor="0xffffff" border="1" bordercolor="0x000000" wordwrap="1" textcolor="0x000000" backgroundalpha="1" enabled="1" borderalpha="1" borderradius="1" textalpha="1" width="180" background="1" height="20"/>
@@ -1134,7 +1200,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="-151.899">
-      <start projection="4" pan="-23.44" tilt="-4.63" fov="108.17"/>
+      <start projection="4" pan="-22.28" tilt="-0.69" fov="117.01"/>
       <flyin projection="9" pan="0" tilt="-90" fov="170"/>
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max scaletofit="1" pan="360" tilt="90" fov="140" fovfisheye="360" fovstereographic="330"/>
@@ -1159,7 +1225,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="-154.475">
-      <start projection="4" pan="100.06" tilt="4.55" fov="108.17"/>
+      <start projection="4" pan="101.38" tilt="7.38" fov="117.01"/>
       <flyin projection="9" pan="0" tilt="-90" fov="170"/>
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max scaletofit="1" pan="360" tilt="90" fov="140" fovfisheye="360" fovstereographic="330"/>
